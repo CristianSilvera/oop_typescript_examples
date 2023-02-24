@@ -14,5 +14,6 @@ npm intall -g typescript
 npm intall -g ts-node
 
 tsc --init -y
+
 tsc -w
 
