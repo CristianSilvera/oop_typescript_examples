@@ -20,3 +20,20 @@
 ### Resources:
 
 `https://www.atlassian.com/git/tutorials/setting-up-a-repository`
+
+## How to create a .gitignore file per git bash
+
+Cristian@DESKTOP ~/Documents/www/oop_tsc (master)
+
+`$ touch .gitignore`
+
+Cristian@DESKTOP ~/Documents/www/oop_tsc (master)
+
+`$ ls -a`
+
+./   .git/       node_modules/      package.json
+../  .gitignore  package-lock.json  src/
+
+Cristian@DESKTOP ~/Documents/www/oop_tsc (master)
+
+`$ echo "node_modules/" > .gitignore`
