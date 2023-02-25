@@ -20,6 +20,7 @@
 ### Resources:
 
 `https://www.atlassian.com/git/tutorials/setting-up-a-repository`
+`https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github`
 
 ## How to create a .gitignore file per git bash
 
@@ -37,3 +38,9 @@ Cristian@DESKTOP ~/Documents/www/oop_tsc (master)
 Cristian@DESKTOP ~/Documents/www/oop_tsc (master)
 
 `$ echo "node_modules/" > .gitignore`
+
+
+
+<h4 align="center">
+:construction: Proyecto en construcción :construction:
+</h4>
